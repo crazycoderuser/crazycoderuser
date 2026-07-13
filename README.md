@@ -262,7 +262,7 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=crazycoderuser&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=crazycoderuser&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8"/>
 
 </div>
 
