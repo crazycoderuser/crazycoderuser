@@ -240,6 +240,12 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 ## 📊 GitHub Stats
 
+<img width="68%" src="https://streak-stats.demolab.com/?user=crazycoderuser&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+
+
+
+
+
 <div align="center">
 
 <img height="175px" src="https://github-readme-stats.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
@@ -261,9 +267,7 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=crazycoderuser&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=crazycoderuser&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"/>
 </div>
 
 ---
