@@ -4,7 +4,7 @@
      ═══════════════════════════════════════════════════════════════ -->
 
 <!-- HEADER WAVE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Utpal%20Chatterjee&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=17&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Utpal%20Chatterjee&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=17&descColor=8b949e"/>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
@@ -30,7 +30,7 @@
 class UtpalChatterjee:
 
     Name       = "Utpal Chatterjee"
-    Title      = "CS&E Graduate  |  Software Engineer  |  AI & Cybersecurity"
+    Title      = "CS&E Graduate  |  Machine Learning  |  AI & Cybersecurity"
     Location   = "Prayagraj, Uttar Pradesh, India 🇮🇳"
     Education  = "B.Tech CS&E — S.I.E.T, AKTU University (2022–2026)"
     Contact    = "utpalchatterjee52@gmail.com"
@@ -262,7 +262,7 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=crazycoderuser&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=crazycoderuser&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -311,8 +311,8 @@ $ cat current_focus.txt
 [![Gmail](https://img.shields.io/badge/Gmail-utpalchatterjee52-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utpalchatterjee52@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-crazycoderuser-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser)
-[![X](https://x.com/codercrazy265)]
-[![Instagram](<img width="1079" height="1600" alt="image" src="https://github.com/user-attachments/assets/58290490-a37e-4bb0-aced-bd2b5d6134ce" />)]
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codercrazy265)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/uc3690)
 
 <br/>
 
