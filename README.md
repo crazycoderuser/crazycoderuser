@@ -122,7 +122,7 @@ Segments students into behavioural clusters using K-Means and recommends persona
 `K-Means Clustering` · `Recommendation Engine` · `Research Paper`
 
 [![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/EduPro-Student-Segmentation-Recommendation-System)
-[![Live Link](https://edupro-student-segmentation-recommendation-system-03970.streamlit.app/)]
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://edupro-student-segmentation-recommendation-system-03970.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -141,7 +141,8 @@ End-to-end analytics system for supply chain delivery performance — identifies
 `Delay Risk Scoring` · `EDA` · `Performance Analytics`
 
 [![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/supply-chain-delay-analysis)
-[![Live Link](https://supply-chain-delay-analysis-03690.streamlit.app/)]
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://supply-chain-delay-analysis-03690.streamlit.app/)
+
 
 </td>
 </tr>
@@ -161,7 +162,6 @@ ML-based NIDS using Random Forest & SVM with an end-to-end pipeline from ingesti
 
 `Zero Trust Architecture` · `SHAP/LIME XAI` · `Phantom SOAR`
 
-
 </td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ Full-stack API security scanner with a FastAPI + httpx backend probing REST endp
 
 `OWASP API Top 10` · `Risk scoring` · `Schema validation`
 
-[![View Repo](https://github.com/crazycoderuser/FUTURE_CS_03)
+[![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/FUTURE_CS_03)
 
 </td>
 <td width="50%" valign="top">
