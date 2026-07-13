@@ -29,25 +29,25 @@
 ```python
 class UtpalChatterjee:
 
-    name       = "Utpal Chatterjee"
-    title      = "CS&E Graduate  |  Software Engineer  |  AI & Cybersecurity"
-    location   = "Prayagraj, Uttar Pradesh, India 🇮🇳"
-    education  = "B.Tech CS&E — S.I.E.T, AKTU University (2022–2026)"
-    contact    = "utpalchatterjee52@gmail.com"
+    Name       = "Utpal Chatterjee"
+    Title      = "CS&E Graduate  |  Software Engineer  |  AI & Cybersecurity"
+    Location   = "Prayagraj, Uttar Pradesh, India 🇮🇳"
+    Education  = "B.Tech CS&E — S.I.E.T, AKTU University (2022–2026)"
+    Contact    = "utpalchatterjee52@gmail.com"
 
     focus = [
         "🛡️  Cybersecurity  —  OWASP, Vulnerability Assessment, API Security",
         "🤖  Applied AI     —  LangChain, Claude API, LLMs, Prompt Engineering",
-        "⚙️   Backend Dev   —  Python, FastAPI, Django, Flask, REST APIs",
+        "⚙️  Backend Dev   —  Python, FastAPI, Django, Flask",
     ]
 
     achievements = {
-        "🏆 McKinsey Forward Program" : "Selected globally — McKinsey & Company",
-        "🎓 Harvard Aspire Leaders"   : "Aspire Institute, Harvard University",
-        "🐍 Stanford Code in Place"   : "6-week Python programme, Stanford Faculty",
-        "🔐 Cybersecurity Intern"     : "Future Interns (2024)",
-        "📊 Data Science Intern"      : "AICTE × Microsoft × Edunet Foundation",
-        "🤖 Google Certified"         : "AI Essentials + Prompting Essentials",
+        "🏆 McKinsey Forward Program": "Selected globally — McKinsey & Company",
+        "🎓 Harvard Aspire Leaders"  : "Aspire Institute, Harvard University",
+        "🐍 Stanford Code in Place"  : "6-week Python programme, Stanford Faculty",
+        "🔐 Cybersecurity Intern"    : "Future Interns (2026)",
+        "📊 Machine Learning Intern" : "Unified Mentor Pvt. Ltd.",
+        "🤖 Google Certified"        : "AI Essentials + Prompting Essentials",
     }
 
     currently_building = "AI-powered security tools & LLM-integrated products"
@@ -62,21 +62,17 @@ class UtpalChatterjee:
 
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)
 [![C](https://skillicons.dev/icons?i=c&theme=dark)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://isocpp.org)
 [![SQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://mysql.com)
 [![Bash](https://skillicons.dev/icons?i=bash&theme=dark)](https://www.gnu.org/software/bash/)
 
 **Frameworks & Libraries**
 
-[![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com)
 [![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://djangoproject.com)
 [![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://flask.palletsprojects.com)
-[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
 
 **Databases & Infrastructure**
 
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://postgresql.org)
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://mysql.com)
 [![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://redis.io)
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://docker.com)
@@ -112,21 +108,43 @@ class UtpalChatterjee:
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 CareerCopilot AI
-**Production-ready AI Career SaaS**
+### 🎓 EduPro — Student Segmentation & Course Recommendation
+**K-Means Clustering + Personalized Learning Engine**
 
-An end-to-end AI platform that transforms a LinkedIn profile into ATS-optimised resumes, cover letters, job-matched applications, and interview prep — powered by Claude Sonnet/Haiku via LangChain.
+Segments students into behavioural clusters using K-Means and recommends personalised courses based on learning patterns, academic performance, and engagement data — served through an interactive Streamlit dashboard.
 
-![Next.js](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-`48 REST API endpoints` · `7 DB schemas` · `JWT RS256 auth`
+`K-Means Clustering` · `Recommendation Engine` · `Research Paper`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/careercopliot-ai)
+[![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/EduPro-Student-Segmentation-Recommendation-System)
+[![Live Link](https://edupro-student-segmentation-recommendation-system-03970.streamlit.app/)]
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 Supply Chain Delay Risk Analytics
+**Delivery Performance Intelligence Dashboard**
+
+End-to-end analytics system for supply chain delivery performance — identifies delay risk patterns, ranks high-risk shipment routes, and produces an interactive dashboard for operational decision-making.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+`Delay Risk Scoring` · `EDA` · `Performance Analytics`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/supply-chain-delay-analysis)
+[![Live Link](https://supply-chain-delay-analysis-03690.streamlit.app/)]
+
+</td>
+</tr>
 
 </td>
 <td width="50%" valign="top">
@@ -143,7 +161,6 @@ ML-based NIDS using Random Forest & SVM with an end-to-end pipeline from ingesti
 
 `Zero Trust Architecture` · `SHAP/LIME XAI` · `Phantom SOAR`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/hybridnids)
 
 </td>
 </tr>
@@ -162,7 +179,7 @@ Full-stack API security scanner with a FastAPI + httpx backend probing REST endp
 
 `OWASP API Top 10` · `Risk scoring` · `Schema validation`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/api-security-analyzer)
+[![View Repo](https://github.com/crazycoderuser/FUTURE_CS_03)
 
 </td>
 <td width="50%" valign="top">
@@ -179,7 +196,7 @@ Collects real phishing email samples, deconstructs attack techniques, and cross-
 
 `VirusTotal` · `URLHaus` · `WHOIS` · `MXToolbox`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/phishing-detection)
+[![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/FUTURE_CS_02)
 
 </td>
 </tr>
@@ -197,7 +214,7 @@ Non-intrusive, read-only vulnerability assessment on a live website. Identified 
 
 `Passive recon only` · `OWASP ZAP` · `SSL Labs` · `curl`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/vuln-assessment)
+[![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/FUTURE_CS_01)
 
 </td>
 <td width="50%" valign="top">
@@ -205,14 +222,13 @@ Non-intrusive, read-only vulnerability assessment on a live website. Identified 
 ### 🔐 Encrypted Data Protection Tool
 **Secure Key Management**
 
-Lightweight encryption/decryption tool implementing symmetric-key algorithms with secure key management. Demonstrates security-aware backend engineering and applied cryptographic protocol design.
+Lightweight encryption/decryption tool that implements symmetric-key algorithms and supports secure key management. Demonstrates security-aware backend engineering and applied design of cryptographic protocols.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-3C3C3C?style=flat-square)
 
 `Symmetric encryption` · `Secure key management` · `Data integrity`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser/encrypted-tool)
 
 </td>
 </tr>
@@ -259,10 +275,8 @@ $ cat current_focus.txt
 
   🔐  Advanced Penetration Testing & Ethical Hacking
   🤖  Agentic AI systems with LangChain & LangGraph
-  ☁️   AWS Cloud Security & Solutions Architecture
-  📐  System Design for Distributed Systems at Scale
-  🏆  DSA daily grind — LeetCode medium/hard
-  🛡️   eJPT / CEH Certification preparation
+  🏆  DSA daily grind — LeetCode easy/medium
+  
 ```
 
 ---
@@ -273,16 +287,16 @@ $ cat current_focus.txt
 
 | 🏅 Certification | 🏢 Issuer | 📅 |
 |:---|:---|:---|
-| 🤖 Google AI Essentials | Google / Coursera | 2024 |
-| 💬 Google Prompting Essentials | Google / Coursera | 2024 |
-| 🔐 Junior Cybersecurity Analyst | Cisco | 2024 |
-| 🧠 Oracle Certification in AI | Oracle | 2024 |
-| 🤖 Foundation of AI | Microsoft & Edunet Foundation | 2023 |
-| ⚛️ Quantum Computing | IIT Roorkee | 2023 |
-| 💡 AI Upskilling — Technical Foundation | Qualcomm Academy | 2024 |
-| 🐍 Code in Place | Stanford University | 2024 |
-| 📊 Data Science Intern Certification | AICTE | 2023 |
-| 🤖 ML using Python | Simplilearn | 2023 |
+| 🤖 Google AI Essentials | Google / Coursera | 2026 |
+| 💬 Google Prompting Essentials | Google / Coursera | 2026 |
+| 🔐 Junior Cybersecurity Analyst | Cisco | 2026 |
+| 🧠 Oracle Certification in AI | Oracle | 2025 |
+| 🤖 Foundation of AI | Microsoft & Edunet Foundation | 2024 |
+| ⚛️ Quantum Computing | IIT Roorkee | 2025 |
+| 💡 AI Upskilling — Technical Foundation | Qualcomm Academy | 2026 |
+| 🐍 Code in Place | Stanford University | 2026 |
+| 📊 Data Science Intern Certification | AICTE | 2025 |
+| 🤖 ML using Python | Simplilearn | 2025 |
 
 </div>
 
@@ -297,6 +311,8 @@ $ cat current_focus.txt
 [![Gmail](https://img.shields.io/badge/Gmail-utpalchatterjee52-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utpalchatterjee52@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-crazycoderuser-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazycoderuser)
+[![X](https://x.com/codercrazy265)]
+[![Instagram](<img width="1079" height="1600" alt="image" src="https://github.com/user-attachments/assets/58290490-a37e-4bb0-aced-bd2b5d6134ce" />)]
 
 <br/>
 
