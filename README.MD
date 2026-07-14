@@ -164,7 +164,8 @@ ML-based NIDS using Random Forest & SVM with an end-to-end pipeline from ingesti
 
 </td>
 </tr>
-<tr>
+
+</td>
 <td width="50%" valign="top">
 
 ### 🔎 API Security Risk Analyzer
@@ -240,29 +241,43 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
 &nbsp;&nbsp;
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 <br/><br/>
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=crazycoderuser&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=crazycoderuser&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true"/>
-              
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=crazycoderuser&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff"/>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Recognitions
 
+<div align="center">
 
+![McKinsey](https://img.shields.io/badge/McKinsey_Forward_Program-Selected_Globally-003087?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Harvard](https://img.shields.io/badge/Harvard_Aspire_Leaders-Selected_Participant-A51C30?style=for-the-badge&logo=academia&logoColor=white)
+
+![Stanford](https://img.shields.io/badge/Stanford_Code_in_Place-Completed-8C1515?style=for-the-badge&logo=coursera&logoColor=white)
+![Google](https://img.shields.io/badge/Google_AI_Essentials-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google](https://img.shields.io/badge/Google_Prompting_Essentials-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+![Oracle](https://img.shields.io/badge/Oracle_AI_Certification-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Jr._Cybersecurity_Analyst-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Qualcomm](https://img.shields.io/badge/Qualcomm_AI_Upskilling-Certified-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white)
+
+![IIT Roorkee](https://img.shields.io/badge/IIT_Roorkee_Quantum_Computing-Completed-006747?style=for-the-badge&logo=atom&logoColor=white)
+![AICTE](https://img.shields.io/badge/AICTE_Data_Science_Intern-Certified-FF6B00?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
 
 ---
 
@@ -289,12 +304,9 @@ $ cat current_focus.txt
 | 💬 Google Prompting Essentials | Google / Coursera | 2026 |
 | 🔐 Junior Cybersecurity Analyst | Cisco | 2026 |
 | 🧠 Oracle Certification in AI | Oracle | 2025 |
-| 🤖 Foundation of AI | Microsoft & Edunet Foundation | 2024 |
 | ⚛️ Quantum Computing | IIT Roorkee | 2025 |
 | 💡 AI Upskilling — Technical Foundation | Qualcomm Academy | 2026 |
 | 🐍 Code in Place | Stanford University | 2026 |
-| 📊 Data Science Intern Certification | AICTE | 2025 |
-| 🤖 ML using Python | Simplilearn | 2025 |
 
 </div>
 
