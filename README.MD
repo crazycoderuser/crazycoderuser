@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     UTPAL CHATTERJEE — GitHub Profile README
+     UTPAL CHATTERJEE — GitHub Profile 
      Username: crazycoderuser
      ═══════════════════════════════════════════════════════════════ -->
 
@@ -243,9 +243,9 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <div align="center">
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
 &nbsp;&nbsp;
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
 
 <br/><br/>
 
@@ -254,17 +254,15 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=crazycoderuser&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff"/>
-
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=crazycoderuser&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true"/>
+              
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=crazycoderuser&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"/>
-</div>
+
 
 ---
 
