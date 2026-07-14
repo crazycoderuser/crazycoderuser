@@ -3,20 +3,20 @@
      Username: crazycoderuser
      ═══════════════════════════════════════════════════════════════ -->
 
-<!-- HEADER WAVE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Utpal%20Chatterjee&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=17&descColor=8b949e"/>
+<!-- ═══ HACKER HEADER ═══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=220&section=header&text=Utpal%20Chatterjee&fontSize=52&fontColor=00FF41&animation=twinkling&fontAlignY=40&desc=%3E_%20Cybersecurity%20%7C%20Hacking%20%7C%20Coding%20Enthusiast&descAlignY=62&descSize=17&descColor=39FF14&stroke=00FF41&strokeWidth=1"/>
 
-<!-- TYPING ANIMATION -->
+<!-- ═══ TERMINAL TYPING ANIMATION ═══ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=620&height=50&lines=🛡️+Building+real+security+tools+that+work;🤖+Shipping+AI-powered+products+end-to-end;⚙️+Python+%7C+FastAPI+%7C+LangChain+%7C+Next.js+14;🔐+OWASP+%7C+Nmap+%7C+OSINT+%7C+Threat+Analysis;🚀+McKinsey+Forward+%7C+Harvard+Aspire+Leader)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=900&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=680&height=52&lines=root%40crazycoderuser%3A~%23+whoami;%3E+Utpal+Chatterjee+—+CrazyCoder+👾;%3E+Cybersecurity+Enthusiast+%26+Ethical+Hacking+Practioner;%3E+AI+Engineer+%7C+Python+%7C+FastAPI+%7C+LangChain;%3E+Breaking+things+legally.+Building+things+properly.;%3E+OWASP+%7C+Nmap+%7C+Burp+Suite+%7C+Threat+Analysis)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- PROFILE BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=crazycoderuser&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+<!-- ═══ PROFILE BADGES ═══ -->
+![Profile Views](https://komarev.com/ghpvc/?username=crazycoderuser&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&labelColor=000000)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/crazycoderuser?label=Followers&style=for-the-badge&color=0e75b6&logo=github)](https://github.com/crazycoderuser?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/crazycoderuser?label=Followers&style=for-the-badge&color=00FF41&labelColor=000000&logo=github)](https://github.com/crazycoderuser?tab=followers)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utpalc3690)
 
@@ -339,4 +339,4 @@ $ cat current_focus.txt
 </div>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=140&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=140&section=footer&animation=twinkling"/>
