@@ -243,9 +243,9 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <div align="center">
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
 &nbsp;&nbsp;
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
 
 <br/><br/>
 
@@ -263,8 +263,8 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <div align="center">
 
-![McKinsey](https://img.shields.io/badge/McKinsey_Forward_Program-Selected_Globally-003087?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-![Harvard](https://img.shields.io/badge/Harvard_Aspire_Leaders-Selected_Participant-A51C30?style=for-the-badge&logo=academia&logoColor=white)
+![McKinsey](https://img.shields.io/badge/McKinsey_Forward_Program-Selected_Participant-003087?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Harvard](https://img.shields.io/badge/Harvard_Aspire_Leaders-Selected_Globally-A51C30?style=for-the-badge&logo=academia&logoColor=white)
 
 ![Stanford](https://img.shields.io/badge/Stanford_Code_in_Place-Completed-8C1515?style=for-the-badge&logo=coursera&logoColor=white)
 ![Google](https://img.shields.io/badge/Google_AI_Essentials-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
