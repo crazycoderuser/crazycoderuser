@@ -168,23 +168,6 @@ ML-based NIDS using Random Forest & SVM with an end-to-end pipeline from ingesti
 </td>
 <td width="50%" valign="top">
 
-### 🤖 CareerCopilot AI
-**Production-ready AI Career SaaS**
-
-An end-to-end AI platform that transforms a LinkedIn profile into ATS-optimised resumes, cover letters, job-matched applications, and interview prep — powered by Claude Sonnet/Haiku via LangChain.
-
-![Next.js](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-
-`48 REST API endpoints` · `7 DB schemas` · `JWT RS256 auth`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🔎 API Security Risk Analyzer
 **OWASP API Top 10 Scanner**
 
