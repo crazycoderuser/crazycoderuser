@@ -7,12 +7,12 @@
      CYBER HEADER — Cyberpunk Cyan + Electric Purple
 ════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A0A1A,35:0D0060,65:080040,100:0A0A1A&height=240&section=header&text=Utpal%20Chatterjee&fontSize=56&fontColor=00FFFF&animation=fadeIn&fontAlignY=42&desc=%E2%9A%A1%20Cybersecurity%20%7C%20Ethical%20Hacking%20%7C%20AI%20Engineering%20%7C%20Coding&descAlignY=64&descSize=17&descColor=BF00FF&stroke=00FFFF&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A0A1A,35:0D0060,65:080040,100:0A0A1A&height=240&section=header&text=Utpal%20Chatterjee&fontSize=56&fontColor=00FFFF&animation=fadeIn&fontAlignY=42&desc=%E2%9A%A1%20Cybersecurity%20%7C%20Ethical%20Hacking%20%7C%20AI%20Engineering%20%7C%20Coding%20%7C&descAlignY=64&descSize=17&descColor=BF00FF&stroke=00FFFF&strokeWidth=2"/>
 
 <!-- ═══ GLITCH TERMINAL TYPING ═══ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2200&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=55&lines=%5B+SYSTEM+BOOT...+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5B+OK+%5D;%5B+ACCESS+GRANTED+%5D+—+Welcome%2C+CrazyCoder+👾;%3E+Utpal+Chatterjee+%3E+Hack.+Build.+Repeat.+%F0%9F%91%BE;%3E+Cybersecurity+%7C+Ethical+Hacking+%7C+AI+Engineer;%3E+Weapons%3A+Nmap+%7C+Burp+Suite+%7C+OWASP+%7C+Wireshark;%3E+Stack%3A+Python+%7C+FastAPI+%7C+LangChain+%7C+Linux+14;%3E+Breaking+things+legally.+Building+things+properly.;%3E+Attacker%27s+mindset.+Engineer%27s+execution.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2200&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=55&lines=%5B+SYSTEM+BOOT...+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5B+OK+%5D;%5B+ACCESS+GRANTED+%5D+—+Welcome%2C+CrazyCoder+👾;%3E+Utpal+Chatterjee+%3E+Hack.+Build.+Repeat.+%F0%9F%91%BE;%3E+Cybersecurity+%7C+Ethical+Hacking+%7C+AI+Engineer;%3E+Weapons%3A+Nmap+%7C+Burp+Suite+%7C+OWASP+%7C+Wireshark;%3E+Stack%3A+Python+%7C+FastAPI+%7C+LangChain+%7C+KaliLinux;%3E+Breaking+things+legally.+Building+things+properly.;%3E+Attacker%27s+mindset.+Engineer%27s+execution.)](https://git.io/typing-svg)
 
 <br/>
 
