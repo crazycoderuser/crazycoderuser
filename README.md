@@ -3,22 +3,36 @@
      Username: crazycoderuser
      ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ═══ HACKER HEADER ═══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=220&section=header&text=Utpal%20Chatterjee&fontSize=52&fontColor=00FF41&animation=twinkling&fontAlignY=40&desc=%3E_%20Cybersecurity%20%7C%20Hacking%20%7C%20Coding%20Enthusiast&descAlignY=62&descSize=17&descColor=39FF14&stroke=00FF41&strokeWidth=1"/>
+<!-- ═══════════════════════════════════════════════
+     CYBER HEADER — Cyberpunk Cyan + Electric Purple
+════════════════════════════════════════════════ -->
 
-<!-- ═══ TERMINAL TYPING ANIMATION ═══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A0A1A,35:0D0060,65:080040,100:0A0A1A&height=240&section=header&text=Utpal%20Chatterjee&fontSize=56&fontColor=00FFFF&animation=fadeIn&fontAlignY=42&desc=%E2%9A%A1%20Cybersecurity%20%7C%20Ethical%20Hacking%20%7C%20AI%20Engineering%20%7C%20Code&descAlignY=64&descSize=17&descColor=BF00FF&stroke=00FFFF&strokeWidth=2"/>
+
+<!-- ═══ GLITCH TERMINAL TYPING ═══ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=900&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=680&height=52&lines=root%40crazycoderuser%3A~%23+whoami;%3E+Utpal+Chatterjee+—+CrazyCoder+👾;%3E+Cybersecurity+Enthusiast+%26+Ethical+Hacking+Practioner;%3E+AI+Engineer+%7C+Python+%7C+FastAPI+%7C+LangChain;%3E+Breaking+things+legally.+Building+things+properly.;%3E+OWASP+%7C+Nmap+%7C+Burp+Suite+%7C+Threat+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2200&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=55&lines=%5B+SYSTEM+BOOT...+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5B+OK+%5D;%5B+ACCESS+GRANTED+%5D+—+Welcome%2C+CrazyCoder+👾;%3E+Utpal+Chatterjee+%7C+Hacker+%26+Builder;%3E+Cybersecurity+%7C+Ethical+Hacking+%7C+AI+Engineer;%3E+Weapons%3A+Nmap+%7C+Burp+Suite+%7C+OWASP+%7C+Wireshark;%3E+Stack%3A+Python+%7C+FastAPI+%7C+LangChain+%7C+Next.js+14;%3E+Breaking+things+legally.+Building+things+properly.;%3E+Securing+systems+by+day.+Shipping+AI+by+night.)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ═══ PROFILE BADGES ═══ -->
-![Profile Views](https://komarev.com/ghpvc/?username=crazycoderuser&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&labelColor=000000)
+<!-- ═══ CYBER BADGES ═══ -->
+<a href="https://github.com/crazycoderuser">
+<img src="https://komarev.com/ghpvc/?username=crazycoderuser&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS&labelColor=0D0D2B"/>
+</a>
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/crazycoderuser?label=Followers&style=for-the-badge&color=00FF41&labelColor=000000&logo=github)](https://github.com/crazycoderuser?tab=followers)
+<a href="https://github.com/crazycoderuser?tab=followers">
+<img src="https://img.shields.io/github/followers/crazycoderuser?label=Followers&style=for-the-badge&color=BF00FF&labelColor=0D0D2B&logo=github&logoColor=00FFFF"/>
+</a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utpalc3690)
+<a href="https://linkedin.com/in/utpalc3690">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- ═══ CYBER DIVIDER ═══ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
@@ -338,5 +352,8 @@ $ cat current_focus.txt
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=140&section=footer&animation=twinkling"/>
+<!-- ═══ CYBER DIVIDER BEFORE FOOTER ═══ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A0A1A,35:0D0060,65:080040,100:0A0A1A&height=140&section=footer&animation=fadeIn"/>
