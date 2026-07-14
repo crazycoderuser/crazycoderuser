@@ -29,11 +29,11 @@
 ```python
 class UtpalChatterjee:
 
-    Name       = "Utpal Chatterjee"
-    Title      = "CS&E Graduate  |  Machine Learning  |  AI & Cybersecurity"
-    Location   = "Prayagraj, Uttar Pradesh, India 🇮🇳"
-    Education  = "B.Tech CS&E — S.I.E.T, AKTU University (2022–2026)"
-    Contact    = "utpalchatterjee52@gmail.com"
+    name       = "Utpal Chatterjee"
+    title      = "CS&E Graduate  |  Machine Learning  |  AI & Cybersecurity"
+    location   = "Prayagraj, Uttar Pradesh, India 🇮🇳"
+    education  = "B.Tech CS&E — S.I.E.T, AKTU University (2022–2026)"
+    contact    = "utpalchatterjee52@gmail.com"
 
     focus = [
         "🛡️  Cybersecurity  —  OWASP, Vulnerability Assessment, API Security",
@@ -168,6 +168,23 @@ ML-based NIDS using Random Forest & SVM with an end-to-end pipeline from ingesti
 </td>
 <td width="50%" valign="top">
 
+### 🤖 CareerCopilot AI
+**Production-ready AI Career SaaS**
+
+An end-to-end AI platform that transforms a LinkedIn profile into ATS-optimised resumes, cover letters, job-matched applications, and interview prep — powered by Claude Sonnet/Haiku via LangChain.
+
+![Next.js](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+
+`48 REST API endpoints` · `7 DB schemas` · `JWT RS256 auth`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔎 API Security Risk Analyzer
 **OWASP API Top 10 Scanner**
 
@@ -243,17 +260,25 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <div align="center">
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
-&nbsp;&nbsp;
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
+<!-- Profile Summary Card — most reliable service, always renders -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazycoderuser&theme=tokyonight"/>
 
 <br/><br/>
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=crazycoderuser&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+<!-- Stats + Top Languages side by side -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crazycoderuser&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crazycoderuser&theme=tokyonight"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=crazycoderuser&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff"/>
+<!-- Productive time + Most Commit Language -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crazycoderuser&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crazycoderuser&theme=tokyonight&utcOffset=5.5"/>
+
+<br/><br/>
+
+<!-- Streak — new working URL (herokuapp is dead) -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=crazycoderuser&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 
 </div>
 
