@@ -44,6 +44,7 @@
 class UtpalChatterjee:
 
     name       = "Utpal Chatterjee"
+    alias      = "CrazyCoder 👾"
     title      = "CS&E Graduate  |  Machine Learning  |  AI & Cybersecurity"
     location   = "Prayagraj, Uttar Pradesh, India 🇮🇳"
     education  = "B.Tech CS&E — S.I.E.T, AKTU University (2022–2026)"
@@ -52,7 +53,8 @@ class UtpalChatterjee:
     focus = [
         "🛡️  Cybersecurity  —  OWASP, Vulnerability Assessment, API Security",
         "🤖  Applied AI     —  LangChain, Claude API, LLMs, Prompt Engineering",
-        "⚙️  Backend Dev   —   Python, FastAPI, Django, Flask",
+        "⚙️  Backend Dev    —   Python, FastAPI, Django, Flask",
+        "🔬  ML Engineering —  Scikit-learn, Pandas, Model Deployment"
     ]
 
     achievements = {
@@ -60,11 +62,11 @@ class UtpalChatterjee:
         "🎓 Harvard Aspire Leaders"  : "Aspire Institute, Harvard University",
         "🐍 Stanford Code in Place"  : "6-week Python programme, Stanford Faculty",
         "🔐 Cybersecurity Intern"    : "Future Interns (2026)",
-        "📊 Machine Learning Intern" : "Unified Mentor Pvt. Ltd.",
+        "📊 Machine Learning Intern" : "Unified Mentor Pvt. Ltd.(2026)",
         "🤖 Google Certified"        : "AI Essentials + Prompting Essentials",
     }
 
-    currently_building = "API-Sentinel": Runtime BOLA & Shadow API Detection Engine"
+    currently_building = "API-Sentinel - Runtime BOLA & Shadow API Detection Engine"
     motto              = "Ship real things. Solve real problems."
 ```
 
@@ -256,9 +258,9 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <div align="center">
 
-<img height="175px" src="https://github-readme-stats-git-main-crazycoderuser.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=BF00FF&text_color=8b949e"/>
+<img height="175px" src="https://github.com/anuraghazra/github-readme-stats/api?username=crazycoderuser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=BF00FF&text_color=8b949e"/>
 &nbsp;
-<img height="175px" src="https://github-readme-stats-git-main-crazycoderuser.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=8b949e"/>
+<img height="175px" src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=8b949e"/>
 
 <br/><br/>
 
