@@ -256,9 +256,9 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <div align="center">
 
-<img height="175px" src="https://github-readme-stats-crazy-coder.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=BF00FF&text_color=8b949e"/>
+<img height="175px" src="https://github-readme-stats-git-main-crazycoderuser.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=BF00FF&text_color=8b949e"/>
 &nbsp;
-<img height="175px" src="https://github-readme-stats-crazy-coder.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=8b949e"/>
+<img height="175px" src="https://github-readme-stats-git-main-crazycoderuser.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=8b949e"/>
 
 <br/><br/>
 
