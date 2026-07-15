@@ -252,30 +252,21 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Profile Summary Card — most reliable service, always renders -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazycoderuser&theme=tokyonight"/>
+<img height="175px" src="https://github-readme-stats-9h9dwrxh2-crazy-coder.vercel.app/api?username=crazycoderuser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=BF00FF&text_color=8b949e"/>
+&nbsp;
+<img height="175px" src="https://github-readme-stats-9h9dwrxh2-crazy-coder.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=8b949e"/>
 
 <br/><br/>
 
-<!-- Stats + Top Languages side by side -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crazycoderuser&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crazycoderuser&theme=tokyonight"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=crazycoderuser&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFFF&ring=BF00FF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 
 <br/><br/>
 
-<!-- Productive time + Most Commit Language -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crazycoderuser&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crazycoderuser&theme=tokyonight&utcOffset=5.5"/>
-
-<br/><br/>
-
-<!-- Streak — new working URL (herokuapp is dead) -->
-<img width="70%" src="https://streak-stats.demolab.com/?user=crazycoderuser&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=crazycoderuser&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FFFF&line=BF00FF&point=00FFFF&area=true"/>
 
 </div>
 
