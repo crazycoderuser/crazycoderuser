@@ -37,36 +37,47 @@
 </div>
 
 ---
-
 ## `< About Me />`
 
-```python
-class UtpalChatterjee:
+```bash
+┌──(crazycoderuser㉿kali)-[~]
+└─$ whoami
 
-    name       = "Utpal Chatterjee"
-    alias      = "CrazyCoder 👾"
-    title      = "CS&E Graduate  |  Machine Learning  |  AI & Cybersecurity"
-    education  = "B.Tech CS&E — S.I.E.T, AKTU University (2022–2026)"
-    contact    = "utpalchatterjee52@gmail.com"
+  Utpal Chatterjee — CrazyCoder 👾
+  CS&E Graduate | AI Engineer | Security Researcher
 
-    focus = [
-        "🛡️  Cybersecurity  —  OWASP, Vulnerability Assessment, API Security",
-        "🤖  Applied AI     —  LangChain, Claude API, LLMs, Prompt Engineering",
-        "⚙️  Backend Dev    —   Python, FastAPI, Django, Flask",
-        "🔬  ML Engineering —  Scikit-learn, Pandas, Model Deployment"
-    ]
 
-    achievements = {
-        "🏆 McKinsey Forward Program": "Selected globally — McKinsey & Company",
-        "🎓 Harvard Aspire Leaders"  : "Aspire Institute, Harvard University",
-        "🐍 Stanford Code in Place"  : "6-week Python programme, Stanford Faculty",
-        "🔐 Cybersecurity Intern"    : "Future Interns (2026)",
-        "📊 Machine Learning Intern" : "Unified Mentor Pvt. Ltd.(2026)",
-        "🤖 Google Certified"        : "AI Essentials + Prompting Essentials",
-    }
+┌──(crazycoderuser㉿kali)-[~]
+└─$ cat focus.txt
 
-    currently_building = "API-Sentinel - Runtime BOLA & Shadow API Detection Engine"
-    motto              = "Ship real things. Solve real problems."
+  🛡️  Cybersecurity    →  OWASP · Vulnerability Assessment · API Security
+  🤖  Applied AI       →  LangChain · Claude API · LLMs · Prompt Engineering
+  ⚙️  Backend Dev      →  Python · FastAPI · Django · Flask · REST APIs
+  🔬  ML Engineering   →  Scikit-learn · Pandas · Model Deployment
+
+┌──(crazycoderuser㉿kali)-[~]
+└─$ cat achievements.log
+
+  [✔]  McKinsey Forward Program    →  Selected globally — McKinsey & Company
+  [✔]  Harvard Aspire Leaders      →  Aspire Institute, Harvard University
+  [✔]  Stanford Code in Place      →  6-week Python programme, Stanford Faculty
+  [✔]  Cybersecurity Intern        →  Future Interns (2024)
+  [✔]  ML Intern                   →  Unified Mentor Pvt. Ltd.
+  [✔]  Google Certified            →  AI Essentials + Prompting Essentials
+
+┌──(crazycoderuser㉿kali)-[~]
+└─$ ps aux | grep current
+
+  BUILDING  →  API-Sentinel — Runtime BOLA & Shadow API Detection Engine
+  LEARNING  →  Penetration Testing · LangGraph Agents · AI Security
+ 
+┌──(crazycoderuser㉿kali)-[~]
+└─$ echo $MOTTO
+
+  "Attacker's mindset. Engineer's execution."
+
+┌──(crazycoderuser㉿kali)-[~]
+└─$ █
 ```
 
 ---
