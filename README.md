@@ -45,6 +45,7 @@
 
   Utpal Chatterjee — CrazyCoder 👾
   CS&E Graduate | AI Engineer | Security Researcher
+ 📍 India 🇮🇳
 
 
 ┌──(crazycoderuser㉿kali)-[~]
@@ -61,7 +62,7 @@
   [✔]  McKinsey Forward Program    →  Selected globally — McKinsey & Company
   [✔]  Harvard Aspire Leaders      →  Aspire Institute, Harvard University
   [✔]  Stanford Code in Place      →  6-week Python programme, Stanford Faculty
-  [✔]  Cybersecurity Intern        →  Future Interns (2024)
+  [✔]  Cybersecurity Intern        →  Future Interns (2026)
   [✔]  ML Intern                   →  Unified Mentor Pvt. Ltd.
   [✔]  Google Certified            →  AI Essentials + Prompting Essentials
 
