@@ -46,7 +46,6 @@ class UtpalChatterjee:
     name       = "Utpal Chatterjee"
     alias      = "CrazyCoder 👾"
     title      = "CS&E Graduate  |  Machine Learning  |  AI & Cybersecurity"
-    location   = "Prayagraj, Uttar Pradesh, India 🇮🇳"
     education  = "B.Tech CS&E — S.I.E.T, AKTU University (2022–2026)"
     contact    = "utpalchatterjee52@gmail.com"
 
