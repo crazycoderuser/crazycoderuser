@@ -275,7 +275,7 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=crazycoderuser&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFFF&ring=BF00FF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+<img width="70%" src="https://github-readme-stats-gamma-sage-68.vercel.app/api?username=crazycoderuser&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=BF00FF&text_color=8b949e&custom_title=GitHub+Activity+Overview"/>
 
 <br/><br/>
 
