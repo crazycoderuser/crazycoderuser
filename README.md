@@ -12,7 +12,7 @@
 <!-- ═══ GLITCH TERMINAL TYPING ═══ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2200&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=55&lines=%5B+SYSTEM+BOOT...+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5B+OK+%5D;%5B+ACCESS+GRANTED+%5D+—+Welcome%2C+CrazyCoder+👾;%3E+Utpal+Chatterjee+%3E+Hack.+Build.+Repeat.+%F0%9F%91%BE;%3E+Cybersecurity+%7C+Ethical+Hacking+%7C+AI+Engineer;%3E+Weapons%3A+Nmap+%7C+Burp+Suite+%7C+OWASP+%7C+Wireshark;%3E+Stack%3A+Python+%7C+FastAPI+%7C+LangChain+%7C+KaliLinux;%3E+Breaking+things+legally.+Building+things+properly.;%3E+Attacker%27s+mindset.+Engineer%27s+execution.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2200&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=55&lines=%5B+SYSTEM+BOOT...+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5B+OK+%5D;%5B+ACCESS+GRANTED+%5D+—+Welcome%2C+CrazyCoder+👾;%3E+Utpal+Chatterjee+%3E+Hack.+Build.+Repeat.+%F0%9F%91%BE;%3E+Cybersecurity+%7C+Ethical+Hacking+%7C+AI+Engineering;%3E+Weapons%3A+Nmap+%7C+Burp+Suite+%7C+OWASP+%7C+Wireshark;%3E+Stack%3A+Python+%7C+FastAPI+%7C+LangChain+%7C+KaliLinux;%3E+Breaking+things+legally.+Building+things+properly.;%3E+Attacker%27s+mindset.+Engineer%27s+execution.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -274,7 +274,7 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 <img height="175px" src="https://github-readme-stats-gamma-sage-68.vercel.app/api/top-langs/?username=crazycoderuser&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=8b949e"/>
 
 <br/><br/>
-<img width="70%" src="https://https://github-readme-streak-stats-nu-gold.vercel.app//?user=crazycoderuser&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFFF&ring=BF00FF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+<img width="70%" src="https://github-readme-stats-gamma-sage-68.vercel.app/api?username=crazycoderuser&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=BF00FF&text_color=8b949e&custom_title=⚡+GitHub+Activity"/>
 <br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=crazycoderuser&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FFFF&line=BF00FF&point=00FFFF&area=true"/>
