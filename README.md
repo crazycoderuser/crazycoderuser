@@ -277,6 +277,8 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/github-contribution-grid-snake-dark.svg"/>
 
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=crazycoderuser&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FFFF&line=BF00FF&point=00FFFF&area=true&area_color=BF00FF" width="95%"/>
 </div>
 
