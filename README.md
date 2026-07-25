@@ -280,8 +280,10 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <br/><br/>
 
-<!-- ✅ Night rainbow — neon cyberpunk city -->
-<img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/profile-night-rainbow.svg"/>
+
+<!-- ✅ Green animate — animated version of green -->
+<img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/profile-green-animate.svg"/>
+
 
 </div>
 
