@@ -280,8 +280,8 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <br/><br/>
 
-<!-- ✅ BEST: Night green — dark matrix city, perfect for your theme -->
-<img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/profile-night-green.svg"/>
+<!-- ✅ Night rainbow — neon cyberpunk city -->
+<img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/profile-night-rainbow.svg"/>
 
 </div>
 
