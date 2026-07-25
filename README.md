@@ -280,10 +280,8 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <br/><br/>
 
-
-<!-- ✅ Green animate — animated version of green -->
-<img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/profile-green-animate.svg"/>
-
+<!-- ✅ Season animate — animated seasonal theme -->
+<img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/profile-season-animate.svg"/>
 
 </div>
 
