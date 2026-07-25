@@ -277,6 +277,15 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <!-- Green matrix city — best for your hacker theme -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=crazycoderuser&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FF41&line=BF00FF&point=00FF41&area=true&custom_title=◈+SYSTEM+ACTIVITY+LOG"/>
+
+<br/><br/>
+<!-- Snake animation first -->
+<img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/github-contribution-grid-snake-dark.svg"/>
+
+<br/>
+
+<!-- Then 3D night green city below -->
+<img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/profile-night-green.svg"/>
 </div>
 
 ---
