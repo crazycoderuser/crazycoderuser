@@ -280,12 +280,9 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <br/><br/>
 
-<!-- Snake animation first -->
-<img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/github-contribution-grid-snake-dark.svg"/>
-
-
-<!-- Then 3D night green city below -->
+<!-- ✅ BEST: Night green — dark matrix city, perfect for your theme -->
 <img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/profile-night-green.svg"/>
+
 </div>
 
 ---
