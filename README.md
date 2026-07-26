@@ -283,6 +283,10 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 <!-- Night green — hacker theme ✅ -->
 <img width="100%" src="https://crazycoderuser.github.io/crazycoderuser/profile-night-green.svg"/>
 
+<!-- Night rainbow — neon cyberpunk ✅ -->
+<img width="100%" src="https://crazycoderuser.github.io/crazycoderuser/profile-night-rainbow.svg"/>
+
+
 </div>
 
 ---
