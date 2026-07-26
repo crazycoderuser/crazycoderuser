@@ -279,11 +279,8 @@ Lightweight encryption/decryption tool that implements symmetric-key algorithms 
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/github-contribution-grid-snake-dark.svg"/>
-
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/profile-night-green.svg"/>
+<!-- Snake as GIF — always renders in GitHub READMEs ✅ -->
+<img width="100%" src="https://raw.githubusercontent.com/crazycoderuser/crazycoderuser/output/github-contribution-grid-snake-dark.gif"/>
 
 </div>
 
